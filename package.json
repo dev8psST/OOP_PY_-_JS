@@ -1,0 +1,18 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my_code_oop.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest-cli": "^28.1.0"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
